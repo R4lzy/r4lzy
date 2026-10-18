@@ -1,4 +1,3 @@
- 
 <!--
   r4lzy — GitHub profile README
   Palette: midnight · violet · cyan
@@ -22,19 +21,16 @@
   <a href="https://github.com/r4lzy/r4l-dist/releases">
     <img src="https://img.shields.io/badge/R4L-Project%20Releases-0891B2?style=for-the-badge&logo=windows&logoColor=white" alt="R4L project releases" />
   </a>
-  <a href="https://discord.com/users/@ralzye">
-    <img src="https://img.shields.io/badge/DISCORD-@ralzye-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @ralzye" />
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/DISCORD-@ralzyemain-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @ralzyemain" />
   </a>
 </p>
 
-## Hey, I'm r4lzy.
+Hey, I'm r4lzy.
+I like taking software apart, figuring out how it works, and building useful tools from what I learn. I'm especially interested in reverse engineering, software analysis, desktop utilities, and web projects.
+Curious by default. Builder by habit.
 
-I like taking software apart, figuring out how it works, and building useful tools from what I learn. I'm especially interested in **reverse engineering, software analysis, desktop utilities, and web projects**.
-
-> Curious by default. Builder by habit.
-
-## What I work on
-
+What I work on
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -52,24 +48,22 @@ I like taking software apart, figuring out how it works, and building useful too
       Creating interfaces, dashboards, and small custom project ecosystems.
     </td>
     <td width="50%" valign="top">
-      <h3>⌘ Scripts & Experiments</h3>
-      Writing small scripts, testing ideas, and learning by making things.
+      <h3>⌘ Systems & Scripting</h3>
+      Working with C/C++ alongside scripting languages to experiment, solve problems, and build tools.
     </td>
   </tr>
 </table>
 
-## Languages & tools
-
+Languages & tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,cs,python,java&theme=dark" alt="Lua, HTML, C Sharp, Python, and Java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,html&theme=dark" alt="C, C++, C Sharp, Python, Java, Lua, and HTML" />
 </p>
 
 <p align="center">
-  <sub>Languages I work with and continue to explore.</sub>
+  <sub>Languages I use across different projects and experiments.</sub>
 </p>
 
-## Featured work
-
+Featured work
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -87,7 +81,14 @@ I like taking software apart, figuring out how it works, and building useful too
   </tr>
 </table>
 
-## GitHub activity
+GitHub activity
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=r4lzy&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="GitHub contribution activity graph for r4lzy"
+  />
+</p>
 
 <p align="center">
   <img
@@ -102,14 +103,26 @@ I like taking software apart, figuring out how it works, and building useful too
   />
 </p>
 
-## Find me
+Contribution snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r4lzy/r4lzy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r4lzy/r4lzy/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/r4lzy/r4lzy/output/github-snake.svg" alt="Animated snake traversing r4lzy's GitHub contribution grid" width="100%" />
+  </picture>
+</p>
 
+<p align="center">
+  <sub>The graph and snake use GitHub contribution data — styled up, not made up. 🐍</sub>
+</p>
+
+Find me
 <p align="center">
   <a href="https://r4lzy.github.io/">Portfolio</a>
   &nbsp; • &nbsp;
   <a href="https://github.com/r4lzy">GitHub</a>
   &nbsp; • &nbsp;
-  <a href="https://discord.com/users/@ralzye">Discord</a>
+  <a href="https://discord.com">Discord (@ralzyemain)</a>
 </p>
 
 <p align="center">
