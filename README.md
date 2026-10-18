@@ -21,16 +21,19 @@
   <a href="https://github.com/r4lzy/r4l-dist/releases">
     <img src="https://img.shields.io/badge/R4L-Project%20Releases-0891B2?style=for-the-badge&logo=windows&logoColor=white" alt="R4L project releases" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/DISCORD-@ralzyemain-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @ralzyemain" />
+  <a href="https://discord.com/app">
+    <img src="https://img.shields.io/badge/DISCORD-@ralzydelunaa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @ralzydelunaa" />
   </a>
 </p>
 
-Hey, I'm r4lzy.
-I like taking software apart, figuring out how it works, and building useful tools from what I learn. I'm especially interested in reverse engineering, software analysis, desktop utilities, and web projects.
-Curious by default. Builder by habit.
+## Hey, I'm r4lzy.
 
-What I work on
+I like taking software apart, figuring out how it works, and building useful tools from what I learn. I'm especially interested in **reverse engineering, software analysis, desktop utilities, and web projects**.
+
+> Curious by default. Builder by habit.
+
+## What I work on
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -54,7 +57,8 @@ What I work on
   </tr>
 </table>
 
-Languages & tools
+## Languages & tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,html&theme=dark" alt="C, C++, C Sharp, Python, Java, Lua, and HTML" />
 </p>
@@ -63,7 +67,8 @@ Languages & tools
   <sub>Languages I use across different projects and experiments.</sub>
 </p>
 
-Featured work
+## Featured work
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -81,7 +86,8 @@ Featured work
   </tr>
 </table>
 
-GitHub activity
+## GitHub activity
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=r4lzy&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
@@ -103,7 +109,8 @@ GitHub activity
   />
 </p>
 
-Contribution snake
+### Contribution snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r4lzy/r4lzy/output/github-snake-dark.svg" />
@@ -116,13 +123,14 @@ Contribution snake
   <sub>The graph and snake use GitHub contribution data — styled up, not made up. 🐍</sub>
 </p>
 
-Find me
+## Find me
+
 <p align="center">
   <a href="https://r4lzy.github.io/">Portfolio</a>
   &nbsp; • &nbsp;
   <a href="https://github.com/r4lzy">GitHub</a>
   &nbsp; • &nbsp;
-  <a href="https://discord.com">Discord (@ralzyemain)</a>
+  <a href="https://discord.com/app">Discord (@ralzydelunaa)</a>
 </p>
 
 <p align="center">
